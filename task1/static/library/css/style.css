@@ -1,0 +1,27 @@
+.first-step-rm {
+    display: none;
+}
+
+/* .first-step {
+    transition-timing-function: ease-in;
+    transition: 0.5s;
+    opacity: 1;
+}
+
+.second-step {
+    transform: translateX(0%);
+    transition-timing-function: ease-in;
+    transition: 0.5s;
+    opacity: 1;
+}
+
+.second-step-rm {
+    transform: translateX(100%);
+    transition-timing-function: ease-out;
+    transition: 0.5s;
+    opacity: 0;
+} */
+
+.rm-display {
+    display: none;
+} 
